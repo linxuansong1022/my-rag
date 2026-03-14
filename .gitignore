@@ -64,6 +64,9 @@ config/test_credentials.yaml
 config/settings.yaml.qa_backup
 config/settings.yaml.bak
 
+# Local settings with API keys — never commit, use settings.yaml.example as template
+config/settings.yaml
+
 # IDE
 .idea/
 .vscode/
